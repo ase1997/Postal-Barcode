@@ -1,0 +1,39 @@
+Ann Perkins
+217 Lowell Drive
+Pawnee
+IN
+47408
+3
+4.2
+
+Ron Swanson
+3657 White Bridge Road
+Eagleton
+IN
+47320
+2
+2.3
+
+Andy Dwyer
+789 Cherry Road
+Wamapoke
+IN
+48034
+1
+1.8
+
+Ben Wyatt
+1513 Plymouth Street
+Pawnee
+IN
+47407
+1
+1
+
+Chris Traeger
+8900 Rapport Street
+Eagleton
+IN
+47322
+3
+3

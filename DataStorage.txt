@@ -1,0 +1,43 @@
+
+
+**************************$2.94
+
+Ann Perkins
+217 Lowell Drive
+Pawnee  IN 47408
+
+|:|::||:::|:|::||::|:|:::||
+
+**************************$1.42
+
+Ron Swanson
+3657 White Bridge Road
+Eagleton  IN 47320
+
+|:|::||:::|::||:::|:|:|::||
+
+**************************$0.71
+
+Andy Dwyer
+789 Cherry Road
+Wamapoke  IN 48034
+
+|:|::||::|:::||::|::|:::|||
+
+**************************$0.49
+
+Ben Wyatt
+1513 Plymouth Street
+Pawnee  IN 47407
+
+|:|::||:::|:|::||:::||::|:|
+
+**************************$2.54
+
+Chris Traeger
+8900 Rapport Street
+Eagleton  IN 47322
+
+|:|::||:::|::||:::|:|::|:|::|:||
+
+Total cost of all the postage in text file is $8.1.
