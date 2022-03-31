@@ -14,7 +14,7 @@ CPCC CSC 134 (C++ Programming) Project 4 (Final Project)
   - **Khoa_Do_Project4.cpp** contains the entire code for this project.  Project 4 is built upon project 1, 2, and 3 that are put together into one final project
 
 ## Author
-Khoa Do.
+Khoa Do
 
 ## Reference
 N/A
