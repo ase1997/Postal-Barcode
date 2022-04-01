@@ -6,7 +6,7 @@
 CPCC CSC 134 (C++ Programming) Project 4 (Final Project)
   - Develop program to calculate postage due and generating barcocde for weighted packes in C++
 
-## Dependencies:
+## Dependencies
   - Dev-C++ IDE
   
 ## About the Repo.
